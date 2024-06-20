@@ -6,4 +6,7 @@ Part 2 Part2.md
 Part 3 Part3.md
 
 separate txt files 
+[section1](./Part1/Part1.md)
+[section2](./Part2/Part2.md)
+[section3](./Part3/Part3.md)
 
